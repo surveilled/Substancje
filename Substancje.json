@@ -7611,6 +7611,38 @@
       "hyperkategoria": [
         "chemia"
       ]
+    },
+    {
+      "nazwa": "klonazolam",
+      "inna nazwa": [
+        "6-(2-chlorofenylo)-1-metylo-8-nitro-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepina",
+        "Klonazolam",
+        "Klonitrazolam",
+        "Zolam"
+      ],
+      "odmiany": [
+        "klonazolamu",
+        "klonazolamowi",
+        "klonazolamem",
+        "klonazolamie",
+        "zolam",
+        "zolamu",
+        "zolamowi",
+        "zolamem",
+        "zolamie"
+      ],
+      "wzor chemiczny": [
+        "[O-] [N+](=O)c2cc3/C(=N\Cc1nnc(C)n1c3cc2)c4ccccc4Cl"
+      ],,
+      "kategoria": [
+        "depresanty",
+        "benzodiazepiny",
+        "modulatory GABA"
+      ],
+      "talk": "klonazolam-watek-ogolny-t43063.html",
+      "hyperkategoria": [
+        "chemia"
+      ]
     }
   ]
 }
